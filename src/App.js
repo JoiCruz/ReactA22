@@ -7,7 +7,7 @@ import  ComParametro  from './componentes/basicos/ComParametro'
 import  Fragmento  from './componentes/basicos/Fragmentos'
 import NumeroAle from './componentes/basicos/NumeroAle'
 import Modelo from './componentes/Modelo'
-import './app.css'
+import './App.css'
 import Nome from './componentes/basicos/Nome'
 import Formulario from './componentes/basicos/Formulario'
 
